@@ -1,4 +1,4 @@
-# RAG (Retrieval-Augmented Generation) Chatbot 
+# Simplified version of RAG (Retrieval-Augmented Generation) Chatbot 
 
 > **⚠️
 > 
