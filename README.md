@@ -12,20 +12,6 @@
 
 **🇹🇷** Üniversite belgelerini (PDF, DOCX, TXT) işleyerek öğrencilerin sorularını bu belgelerden doğru bilgilerle yanıtlayan bir AI asistan oluşturmak.
 
-## 🔍 Demo vs Production Comparison / Demo vs Production Karşılaştırması
-
-| Feature / Özellik | Demo Version | Production Version |
-|-------------------|--------------|-------------------|
-| **Core RAG Pipeline** | ✅ Basic implementation | ✅ Advanced with optimization |
-| **Document Processing** | ✅ PDF, DOCX, TXT | ✅ + Advanced OCR, tables, images |
-| **Embedding Models** | ✅ Single model (LaBSE) | ✅ Multi-model fusion |
-| **Vector Database** | ✅ ChromaDB basic | ✅ ChromaDB + advanced indexing |
-| **LLM Integration** | ✅ OpenAI GPT-4 | ✅ Multiple LLMs + fallbacks |
-| **Security** | ⚠️ Basic auth | ✅ Enterprise security suite |
-| **Monitoring** | ❌ None | ✅ Comprehensive logging & analytics |
-| **Testing** | ❌ Minimal | ✅ Full test suite (90%+ coverage) |
-| **Admin Panel** | ❌ None | ✅ Advanced management interface |
-| **Deployment** | ⚠️ Dev setup only | ✅ Production-ready with CI/CD |
 
 ## 🏗️ System Architecture / Sistem Mimarisi
 
@@ -43,31 +29,6 @@
                        └─────────────────┘
 ```
 
-## 🔧 Core Components / Temel Bileşenler
-
-### 1. Document Processor (`base.py`)
-- **Demo:** Basic PDF, DOCX, TXT processing
-- **Production:** Advanced OCR, table extraction, image processing, metadata enhancement
-
-### 2. Embedder (`embedder.py`)
-- **Demo:** Single LaBSE model (768d)
-- **Production:** Multi-model ensemble with adaptive selection
-
-### 3. Vector Database (`chroma.py`)
-- **Demo:** Basic ChromaDB operations
-- **Production:** Advanced indexing, clustering, similarity optimization
-
-### 4. RAG Engine (`rag_chatbot.py`)
-- **Demo:** Standard retrieval + generation
-- **Production:** Advanced query understanding, context optimization, response validation
-
-### 5. Web API (`api.py`)
-- **Demo:** Basic Flask endpoints
-- **Production:** Enterprise API with rate limiting, caching, monitoring
-
-### 6. Frontend (`frontend/`)
-- **Demo:** Basic React chat interface
-- **Production:** Advanced admin panel, analytics dashboard, user management
 
 ## 🚀 Quick Start / Hızlı Başlangıç
 
