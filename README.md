@@ -125,5 +125,5 @@ ragi-simplified-demo/
 
 ---
 
-**⭐ If you found this demo useful, please consider giving it a star/home/dr_iso/Lecture/ragi-simplified-demo && head -20 README.md*  
+**⭐ If you found this demo useful, please consider giving it a star!** 
 **⭐ Bu demo'yu faydalı bulduysanız, lütfen yıldız vermeyi düşünün!**
