@@ -1,10 +1,10 @@
-# RAG (Retrieval-Augmented Generation) Chatbot - Demo Version
+# RAG (Retrieval-Augmented Generation) Chatbot 
 
-> **⚠️ Important Notice / Önemli Uyarı**  
+> **⚠️
 > 
-> **🇺🇸 English:** This repository contains a **simplified demonstration version** of a comprehensive RAG chatbot system developed during my internship. The full-featured production version remains in a private repository due to confidentiality agreements and contains significantly more advanced features, security implementations, and enterprise-level configurations.
+> **🇺🇸 English:** This repository contains a **simplified demonstration version** of a comprehensive RAG chatbot system developed during my internship.
 > 
-> **🇹🇷 Türkçe:** Bu repository, stajım süresince geliştirdiğim kapsamlı RAG chatbot sisteminin **basitleştirilmiş demo versiyonunu** içermektedir. Tam özellikli production versiyonu, gizlilik sözleşmeleri nedeniyle private repository'de tutulmakta olup çok daha gelişmiş özellikler, güvenlik implementasyonları ve kurumsal seviye konfigürasyonlar içermektedir.
+> **🇹🇷 Türkçe:** Bu repository, stajım süresince geliştirdiğim kapsamlı RAG chatbot sisteminin **basitleştirilmiş demo versiyonunu** içermektedir.
 
 ## 🎯 Purpose / Amaç
 
@@ -149,21 +149,7 @@ ragi-simplified-demo/
 - Production seviyesi yazılım mimarisi anlayışı
 - Çağdaş NLP teknolojileriyle çalışabilme yetisi
 
-## 🔒 Why This Demo Version? / Neden Bu Demo Versiyonu?
 
-**🇺🇸** The original project contains:
-- Proprietary algorithms and optimizations
-- Client-specific integrations and configurations
-- Enterprise security implementations
-- Internal business logic and data structures
-- Advanced features under NDA (Non-Disclosure Agreement)
-
-**🇹🇷** Orijinal proje şunları içermektedir:
-- Tescilli algoritmalar ve optimizasyonlar
-- Müşteriye özel entegrasyonlar ve konfigürasyonlar
-- Kurumsal güvenlik implementasyonları
-- İç iş mantığı ve veri yapıları
-- Gizlilik sözleşmesi (NDA) kapsamındaki gelişmiş özellikler
 
 ## 🎯 Key Learning Outcomes / Temel Öğrenme Çıktıları
 
@@ -175,12 +161,6 @@ ragi-simplified-demo/
 - ✅ RESTful API design
 - ✅ Modern frontend development with React/TypeScript
 - ✅ Production deployment considerations
-
-## 📞 Contact / İletişim
-
-This demo showcases the core concepts and technologies used in the full production system. For more details about the complete implementation or technical discussions, please feel free to reach out.
-
-Bu demo, tam production sisteminde kullanılan temel konseptleri ve teknolojileri sergiler. Tam implementasyon hakkında daha fazla detay veya teknik tartışmalar için lütfen iletişime geçmekten çekinmeyin.
 
 ---
 
